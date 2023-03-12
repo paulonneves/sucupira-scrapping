@@ -1,0 +1,963 @@
+[
+    {
+        "name": "UNIVERSIDADE FEDERAL DA GRANDE DOURADOS",
+        "CEP": [
+            "79825070"
+        ],
+        "Logradouro": [
+            "Rua João Rosa Góes, 1761"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Vila Progresso"
+        ],
+        "Município": [
+            "Dourados - MS"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://portal.ufgd.edu.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-22.19446",
+            "-54.93025",
+            ""
+        ]
+    },
+    {
+        "name": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
+        "CEP": [
+            "79070900"
+        ],
+        "Logradouro": [
+            "CIDADE UNIVERSITÁRIA, S/Nº - C.P. 549"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "UNIVERSITÁRIO"
+        ],
+        "Município": [
+            "Campo Grande - MS"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www-nt.ufms.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-20.50777",
+            "-54.62103",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE VIÇOSA",
+        "CEP": [
+            "36570900"
+        ],
+        "Logradouro": [
+            "Avenida Peter Henry Rolfs"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "s/n"
+        ],
+        "Bairro": [
+            "Campus Universitário"
+        ],
+        "Município": [
+            "Viçosa - MG"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufv.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-20.76424",
+            "-42.86561",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE ALFENAS",
+        "CEP": [
+            "37130000"
+        ],
+        "Logradouro": [
+            "Rua Gabriel Monteiro da Silva"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "700"
+        ],
+        "Bairro": [
+            "Centro Alfenas"
+        ],
+        "Município": [
+            "Alfenas - MG"
+        ],
+        "FAX": [
+            "(35) ",
+            "3219--8629"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.unifal-mg.edu.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-21.57694",
+            "-45.41197",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE RONDÔNIA",
+        "CEP": [
+            "76801974"
+        ],
+        "Logradouro": [
+            "Av. Presidente Dutra"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "2965"
+        ],
+        "Bairro": [
+            "Centro"
+        ],
+        "Município": [
+            "Porto Velho - RO"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.unir.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-8.76362",
+            "-63.90651",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE GOIÁS",
+        "CEP": [
+            "74690900"
+        ],
+        "Logradouro": [
+            "Av Esperança"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "s/n"
+        ],
+        "Bairro": [
+            "Campus Samambaia - Prédio da Reitoria"
+        ],
+        "Município": [
+            "Goiânia - GO"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "https://www.ufg.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-16.60403",
+            "-49.25746",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+        "CEP": [
+            "57072900"
+        ],
+        "Logradouro": [
+            "Av Lourival Melo Mota"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "s/n"
+        ],
+        "Bairro": [
+            "Tabuleiro dos Martins"
+        ],
+        "Município": [
+            "Maceió - AL"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufal.edu.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-9.55464",
+            "-35.77377",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+        "CEP": [
+            "58429900"
+        ],
+        "Logradouro": [
+            "RUA APRÍGIO VELOSO, 882"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "UNIVERSITÁRIO"
+        ],
+        "Município": [
+            "Campina Grande - PB"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufcg.edu.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-7.21718",
+            "-35.90974",
+            ""
+        ]
+    },
+    {
+        "name": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE SERGIPE",
+        "CEP": [
+            "49100000"
+        ],
+        "Logradouro": [
+            "AVENIDA MARECHAL RONDON, S/Nº"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Jardim Rosa Elze"
+        ],
+        "Município": [
+            "São Cristóvão - SE"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufs.br/"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-10.9223",
+            "-37.10143",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO",
+        "CEP": [
+            "59625900"
+        ],
+        "Logradouro": [
+            "Av. Francisco Mota,"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "572"
+        ],
+        "Bairro": [
+            "Costa e Silva"
+        ],
+        "Município": [
+            "Mossoró - RN"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "https://ufersa.edu.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-5.20453",
+            "-37.32528",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO",
+        "CEP": [
+            "38025440"
+        ],
+        "Logradouro": [
+            "Av. Frei Paulino, 30"
+        ],
+        "Número": [
+            "-         "
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Abadia"
+        ],
+        "Município": [
+            "Uberaba - MG"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.uftm.edu.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-19.75486",
+            "-47.93128",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL-REI",
+        "CEP": [
+            "36307352"
+        ],
+        "Logradouro": [
+            "Praça Frei Orlando, 170"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "CENTRO"
+        ],
+        "Município": [
+            "São João del Rei - MG"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufsj.edu.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-21.14018",
+            "-44.26099",
+            ""
+        ]
+    },
+    {
+        "name": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS - PALMAS",
+        "CEP": [
+            "77001090"
+        ],
+        "Logradouro": [
+            " Avenida NS 15 109 Norte"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Plano Diretor Norte"
+        ],
+        "Município": [
+            "Palmas - TO"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://ww1.uft.edu.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-10.17904",
+            "-48.3611",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO",
+        "CEP": [
+            "56304917"
+        ],
+        "Logradouro": [
+            "AV. JOSÉ DE SÁ MANIÇOBA, S/N"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "CENTRO"
+        ],
+        "Município": [
+            "Petrolina - PE"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://portais.univasf.edu.br/profiap"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-9.41282",
+            "-40.51485",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+        "CEP": [
+            "80230901"
+        ],
+        "Logradouro": [
+            "AV. SETE DE SETEMBRO, 3165"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "REBOUÇAS"
+        ],
+        "Município": [
+            "Curitiba - PR"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://portal.utfpr.edu.br/cursos/mestrado-e-doutorado/administracao-publica-em-rede-nacional"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-25.43928",
+            "-49.26938",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL FLUMINENSE",
+        "CEP": [
+            "24220900"
+        ],
+        "Logradouro": [
+            "RUA MIGUEL DE FRIAS 9"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Icaraí"
+        ],
+        "Município": [
+            "Niterói - RJ"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.profiap.uff.br/"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-22.50632",
+            "-44.08455",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE PELOTAS",
+        "CEP": [
+            "96010610"
+        ],
+        "Logradouro": [
+            "Rua Gomes Carneiro, 01"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Centro"
+        ],
+        "Município": [
+            "Pelotas - RS"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://portal.ufpel.edu.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-31.78117",
+            "-52.32334",
+            ""
+        ]
+    },
+    {
+        "name": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ",
+        "CEP": [
+            "64049550"
+        ],
+        "Logradouro": [
+            "CAMP.UNIVERSITÁRIO MIN. PETR. PORTELLA, S/N"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "ININGA"
+        ],
+        "Município": [
+            "Teresina - PI"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufpi.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-5.05741",
+            "-42.79607",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+        "CEP": [
+            "52171900"
+        ],
+        "Logradouro": [
+            "Rua Dom Manoel de Medeiros, s/n"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Dois Irmãos"
+        ],
+        "Município": [
+            "Recife - PE"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufrpe.br/br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-8.01397",
+            "-34.94797",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+        "CEP": [
+            "36036330"
+        ],
+        "Logradouro": [
+            "José Lourenço Kelmer"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "São Pedro"
+        ],
+        "Município": [
+            "Juiz de Fora - MG"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.ufjf.br/ufjf"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-21.77718",
+            "-43.3694",
+            ""
+        ]
+    },
+    {
+        "name": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+        "CEP": [
+            "96203900"
+        ],
+        "Logradouro": [
+            "Av Itália km 8  (Campus Carreiros)"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Carreiros"
+        ],
+        "Município": [
+            "Rio Grande - RS"
+        ],
+        "FAX": [
+            "(53) ",
+            "3293-5422"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.furg.br"
+        ],
+        "Início": [
+            "22/12/2015"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-32.07568",
+            "-52.16799",
+            ""
+        ]
+    },
+    {
+        "name": "ASSOCIAÇÃO NACIONAL DOS DIRIGENTES DAS INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR",
+        "CEP": [
+            "70398900"
+        ],
+        "Logradouro": [
+            "SCS, Quadra 01, bloco k, nº 30, Edifício Denasa, 8º andar"
+        ],
+        "Número": [
+            "",
+            "-"
+        ],
+        "Complemento": [
+            "",
+            "-"
+        ],
+        "Bairro": [
+            "Asa Sul"
+        ],
+        "Município": [
+            "Brasília - DF"
+        ],
+        "FAX": [
+            "",
+            "-"
+        ],
+        "Telefone(s)": [],
+        "E-mail Institucional do Programa": [],
+        "URL": [
+            "http://www.andifes.org.br"
+        ],
+        "Início": [
+            "01/07/2014"
+        ],
+        "Fim": [
+            "",
+            "-"
+        ],
+        "Coordenadas": [
+            "-15.79745",
+            "-47.88597",
+            ""
+        ]
+    }
+]
