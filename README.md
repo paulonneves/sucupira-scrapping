@@ -20,3 +20,33 @@ The objective is to obtain and group this contact information in relation to the
 [acesse aqui o website portal](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/programa/viewPrograma.jsf?popup=true&cd_programa=53045009001P3)
 
 ![img_1.png](img_1.png)
+
+## Output
+* Json data
+
+```
+{
+    "Nome": [
+        "ADMINISTRAÇÃO PÚBLICA EM REDE NACIONAL"
+    ],
+    "Nome do Programa em Inglês": [
+        "PUBLIC ADMINISTRATION IN NATIONAL NETWORK"
+    ],
+    "Área Básica": [
+        "ADMINISTRAÇÃO PÚBLICA (60202009)"
+    ],
+    "Área de Avaliação": [
+        "ADMINISTRAÇÃO PÚBLICA E DE EMPRESAS, CIÊNCIAS CONTÁBEIS E TURISMO"
+    ],
+    "Situação": [
+        "EM FUNCIONAMENTO"
+    ],
+    "Modalidade de Ensino": [
+        "Educação Presencial"
+    ],
+    "Observações": []
+    .
+    .
+    .
+}  
+```
